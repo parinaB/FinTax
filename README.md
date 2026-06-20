@@ -115,17 +115,11 @@ depending on the entry point you intend to use.
 
 ## Screenshots
 
-### Home Page
+<img width="359" height="795" alt="Screenshot 2026-06-19 at 7 26 05 PM" src="https://github.com/user-attachments/assets/31ef6292-7d4f-42bc-9702-d09c521ba156" />
 
-_Add screenshot here_
 
-### Question Answering Interface
+<img width="365" height="811" alt="Screenshot 2026-06-19 at 7 25 49 PM" src="https://github.com/user-attachments/assets/8ef7ef88-8508-4656-a8ef-a85d4d8490e7" />
 
-_Add screenshot here_
-
-### Sample Response
-
-_Add screenshot here_
 
 ## Future Improvements
 
