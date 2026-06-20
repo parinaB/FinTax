@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+faiss-cpu
+pypdf
+unstructured
+fastapi
+uvicorn
+python-dotenv
+sentence-transformers
+rank-bm25
